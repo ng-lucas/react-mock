@@ -1,0 +1,23 @@
+.tags {
+    height: 30px;
+}
+
+.tag {
+    background-color: #eee;
+    padding: 0 12px;
+    line-height: 1;
+    border-radius: 12px;
+}
+
+.delete-tag, .delete-tag:hover {
+  background-color: transparent;
+  border: none;
+    box-shadow: none;
+  padding: 10px 0 10px 6px;
+  height: 100%;
+
+}
+
+.delete-tag:disabled {
+    cursor: no-drop;
+}

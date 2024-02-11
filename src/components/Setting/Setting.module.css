@@ -1,0 +1,7 @@
+.setting-wrapper {
+  height: 100%;
+}
+
+.setting-wrapper>.row {
+  height: 100%;
+}

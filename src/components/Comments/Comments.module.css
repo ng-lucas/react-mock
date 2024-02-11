@@ -1,0 +1,104 @@
+.comment {
+  border: 1px solid #ccc;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.avt {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.comment-body {
+  padding: 24px 20px;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.btn-delete,
+.btn-delete:hover {
+  background-color: transparent;
+  padding: 2px;
+  border: none;
+  box-shadow: none;
+}
+
+.author-body {
+  background-color: #eee;
+  padding: 8px 20px;
+}
+
+.avt-author-comment {
+  width: 24px;
+  height: 24px;
+}
+
+.author-comment {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.name-comment span {
+  display: block;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.timer-comment {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.comment-enter {
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  margin-top: 400px;
+}
+
+.avt-cmt {
+  width: 40px;
+  height: 40px;
+}
+
+.avt-cmt img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.input-cmt {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.input-cmt input {
+  border-radius: 10px;
+}
+
+.send-comment {
+  border-radius: 6px;
+  padding: 4px 10px;
+}
+
+.btn-delete i {
+  color: #888;
+}
+
+.btn-delete i:hover {
+  color: #555;
+}
+
+.action-p {
+  font-size: 16px;
+}
+
+.action-sign {
+  color: #5cb85c;
+  cursor: pointer;
+}
+
+.user-cmt {
+  cursor: pointer;
+}

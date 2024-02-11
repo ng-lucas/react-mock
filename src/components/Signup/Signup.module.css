@@ -1,0 +1,7 @@
+.register-wrapper {
+  height: 100%;
+}
+
+.register-wrapper > .row {
+  height: 100%;
+}
